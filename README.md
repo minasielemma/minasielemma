@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minasielemma&label=Profile%20views&color=0e75b6&style=flat" alt="minasielemma" /> </p>
 
-- 🔭 I’m currently working on **betting paltform**
+- 🔭 I’m currently working on **Guesthome Booking Platform**
 
 - 🌱 I’m currently learning **Rust**
 
